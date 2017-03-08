@@ -9,5 +9,5 @@
 ## Nächster Kurs: HTML
 vorher: MD testen
 
-![Bildtext](Bild.jpg)
+![Bildtext](bild.jpg)
 Quelle: [Foto-Webcam.eu](https://www.foto-webcam.eu/webcam/karwendel/)

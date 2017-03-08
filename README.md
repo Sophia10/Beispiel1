@@ -2,8 +2,12 @@
 
 ## Warum wir git verwenden
 
-1. Teamfähig
-1. backup
-1. zurück zu einer vorigen Version
++ Teamfähig
++ backup
++ zurück zu einer vorigen Version
 
-## Nächster Kurs HTML
+## Nächster Kurs: HTML
+vorher: MD testen
+
+![Bildtext](Bild.jpg)
+Quelle: [Foto-Webcam.eu](https://www.foto-webcam.eu/webcam/karwendel/)

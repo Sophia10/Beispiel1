@@ -9,5 +9,7 @@
 ## Nächster Kurs: HTML
 vorher: MD testen
 
-![Bildtext](bild.jpg)
+![Karwendel](bild.jpg)
 Quelle: [Foto-Webcam.eu](https://www.foto-webcam.eu/webcam/karwendel/)
+![Herzogstand](https://www.foto-webcam.eu/webcam/kochelsee/2017/03/08/1710_lm.jpg)
+Quelle: [Foto-Webcam.eu](https://www.foto-webcam.eu/webcam/kochelsee/2017/03/08/1710_lm.jpg)
